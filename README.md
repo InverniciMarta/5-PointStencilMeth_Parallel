@@ -1,6 +1,6 @@
 
 # HPC 5-Stencil Computation of 2D Heat Equation
-This repository contains an advanced High-Performance Computing (HPC) implementation of a five-dimensional stencil computation, leveraging MPI for distributed memory parallelism and OpenMP for shared memory parallelism. The code is designed for efficient stencil updates on multidimensional grids, a common pattern in scientific simulations. This project was developed as part of the HPC 2024/2025 course at the University of Trieste.
+This repository contains an advanced High-Performance Computing (HPC) implementation of a five-dimensional stencil computation, leveraging MPI for distributed memory parallelism and OpenMP for shared memory parallelism. This project was developed as part of the HPC 2024/2025 course at the University of Trieste.
 
 ## PROJECT TREE
 
