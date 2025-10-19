@@ -64,7 +64,7 @@ int main(int argc, char **argv)
 
   /* ==================================================================================================
   =                                                                                                   =
-  =   Arguments setting and checking and setting                                                      =  
+  =   Arguments setting and checking                                                                  =  
   ===================================================================================================== */
 
   init_time = MPI_Wtime();
