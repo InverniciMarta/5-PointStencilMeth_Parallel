@@ -15,8 +15,8 @@ HPCStencil/
 ├─ scripts/         # Bash scripts with embedded sbatch directives for Slurm job submission and experiment automation (adapted for Leonardo @ Cineca)
 ├─ assignment/      # Assignment slides
 ├─ slides/          # Final presentation slides
-├─ stencil5.c      # Src file
-├─ stencil5_H.h      # Header file 
+├─ stencil5.c       # Src file
+├─ stencil5_H.h     # Header file 
 ├─ Makefile               
 └─ README.md        
 
