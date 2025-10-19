@@ -112,9 +112,9 @@ Notice that this operation can produce a large amount of output and be time expe
 
 
 CLI Options:
-* `D: 1` to enable grid printing for debugging (default 0)
-* `P: 1` to enable full grid printing at the end of the simulation (default 0)
-* `d: 1` to enable halo printing (default 0)
+* `-D: 1` to enable grid printing for debugging (default 0)
+* `-P: 1` to enable full grid printing at the end of the simulation (default 0)
+* `-d: 1` to enable halo printing (default 0)
 
 
 Environment variable:
